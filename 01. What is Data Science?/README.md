@@ -23,4 +23,4 @@ Course 1 of 12 in the IBM Data Science Professional Certificate
 - Predictive Modelling
   
 # Course 1 Completion Certificate:
-**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/91UDEFMR4ZW6) to verify the IBM certificate.<br>
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/DARM0B38PGGO) to verify the IBM certificate.<br>
