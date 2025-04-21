@@ -22,9 +22,9 @@
 - Reading: Data Mining
 - **Practice Quiz:** Data Mining (100%)
 - Lesson Summary: Big Data and Data Mining
-- **Practice Quiz:** Big Data and Data Mining (100%)
+- **Practice Quiz:** Big Data and Data Mining (66.66%)
 - Glossary: Big Data and Data Mining
-- **Graded Quiz:** Big Data and Data Mining (100%)
+- **Graded Quiz:** Big Data and Data Mining (80%)
 
 ## Deep Learning and Machine Learning
 - Lesson Overview
