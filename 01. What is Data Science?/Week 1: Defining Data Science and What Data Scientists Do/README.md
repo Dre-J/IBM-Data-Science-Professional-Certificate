@@ -17,7 +17,7 @@
 - **Practice Quiz:** The Sexiest Job in the 21st Century (100%)
 - Advice for New Data Scientists
 - Lesson Summary: Defining Data Science
-- **Practice Quiz:** Defining Data Science (100%)
+- **Practice Quiz:** Defining Data Science (80%)
 - Glossary: Defining Data Science
 - **Graded Quiz:** Defining Data Science (100%)
 
