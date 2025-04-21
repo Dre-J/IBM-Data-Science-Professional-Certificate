@@ -10,7 +10,7 @@
 - Data Sources
 - Viewpoint: Working on Varied Data Sources and Types
 - Reading: Metadata
-- **Practice Quiz:** Metadata (100%)
+- **Practice Quiz:** Metadata (66.66%)
 - Lesson Summary: Understanding Data
 - Glossary: Understanding Data
 - **Practice Quiz:** Understanding Data (100%)
@@ -23,7 +23,7 @@
 - Data Marts, Data Lakes, ETL, and Data Pipelines
 - Viewpoint: Considerations for Choice of Data Repository
 - Data Integration Platforms
-- **Practice Quiz:** Data Integration Platforms (100%)
+- **Practice Quiz:** Data Integration Platforms (83.33%)
 - Lesson Summary: Welcome to Data Literacy
 - **Practice Quiz:** Data Literacy (100%)
 - Glossary: Data Literacy for Data Science
