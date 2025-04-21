@@ -21,13 +21,9 @@
 - Introduction to Github
 - Github Repositories
 - Github - Getting Started
-- Hands-On Lab: [Getting Started with Github](https://github.com/KailaniBailey/Getting-Started-with-Github)
 - Github: Working with Branches
-- Hands-On Lab: [Branching and Merging (Web UI)](https://github.com/KailaniBailey/Getting-Started-with-Github/)
 - Optional: Getting Started with Branches Using Git Commands
 ## Summary and Assessments
 - Lesson Summary
 - Glossary
-- **Practice Quiz:** RStudio (100%)
-- **Practice Quiz:** Github (100%)
-- **Graded Quiz:** RStudio & Github (100%)
+- **Graded Quiz:** RStudio & Github (90%)
