@@ -14,28 +14,27 @@
 - Conditions and Branching
 - Hands-On Lab: Conditions and Branching
 - Reading: Conditions and Branching
-- **Practice Quiz**
+- **Practice Quiz**: 75%
 ## Loops
 - Loops
 - Reading: Loops
-- Hands-On Lab: Loops
-- **Practice Quiz**
+- **Practice Quiz**: 66.66%
 ## Functions
 - Functions
 - Reading: Functions
 - Hands-On Lab: Functions
-- ** Practice Quiz**
+- ** Practice Quiz**: 75%
 ## Exception Handling
 - Exception Handling
 - Reading: Exception Handling
 - Hands-On Lab: Exception Handling
-- **Practice Quiz**
+- **Practice Quiz**: 100%
 ## Objects and Classes
 - Objects and Classes
 - Reading: Objects and Classes
 - Hands-On Lab: Objects and Classes
-- **Practice Quiz**
+- **Practice Quiz**: 100
 ## Practice Lab
 - Cheatsheet: Python Programming Fundamentals
 - Practice Lab
-- **Graded Quiz: Python Programming Fundamentals** (100%)
+- **Graded Quiz: Python Programming Fundamentals** (90%)
