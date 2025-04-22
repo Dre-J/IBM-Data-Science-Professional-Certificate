@@ -15,6 +15,6 @@
 - Feedback
 - Storytelling
 - Lesson Summary
-- **Practice Quiz:** From Deployment to Feedback (100%)
+- **Practice Quiz:** From Deployment to Feedback (66.66%)
 - Glossary
-- **Graded Quiz:** From Deployment to Feedback (100%)
+- **Graded Quiz:** From Deployment to Feedback (80%)
