@@ -32,15 +32,5 @@ Course 2 of 12 in the IBM Data Science Professional Certificate
 - Github
 - Rstudio
 - Jupyter Notebooks
-## [Final Assignment](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
-- Graded Assignment: 88%
-## **Final Exam**
-- Graded Assignment: 100%
 # Course 2 Completion Certificate:
-**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/KVTBB24ES8NG) to verify the certificate.<br>
-![tools for data science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/b2d8f8bd-80b2-4ce4-8a17-acc062e6371a)
-# Course 2 Credly Certificate:
-![Tools for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/d41aa454-0728-432b-be2d-d738f95220f6)
-# Course 2 Digital Badge:
-Please [click here](https://www.credly.com/badges/8a5ea92d-9cc4-4bb0-9101-8503605fad44/public_url) to verify the IBM digital badge.<br>
-![tools-for-data-science-v2](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/c6b43472-a135-4f74-9157-ce37fefc699d)
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/91UDEFMR4ZW6) to verify the certificate.<br>
