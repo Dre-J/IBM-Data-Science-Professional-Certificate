@@ -12,9 +12,9 @@
 - Data Preparation - Case Study
 - Hands-On Lab: [From Understanding to Preparation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%202%3A%20From%20Understanding%20to%20Preparation%20and%20From%20Modeling%20to%20Evaluation/DS0103EN-Exercise-From-Understandin.ipynb)
 - Lesson Summary
-- **Practice Quiz:** From Understanding to Preparation (100%)
+- **Practice Quiz:** From Understanding to Preparation (83.33%)
 - Glossary
-- **Graded Quiz:** From Understanding to Preparation (100%)
+- **Graded Quiz:** From Understanding to Preparation (80%)
 ## From Modeling to Evaluation
 - Modeling - Concepts
 - Modeling - Case Study
@@ -23,4 +23,4 @@
 - Lesson Summary
 - **Practice Quiz:** From Modeling to Evaluation (100%)
 - Glossary
-- **Graded Quiz:** From Modeling to Evaluation (100%)
+- **Graded Quiz:** From Modeling to Evaluation (80%)
