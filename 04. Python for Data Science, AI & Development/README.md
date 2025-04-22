@@ -22,11 +22,5 @@ Course 4 of 12 in the IBM Data Science Professional Certificate
 - dash
 - Data Visualization
 - matplotlib
-## Final Exam
-- Graded Assignment: 84%
 # Course 4 Completion Certificate:
-**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/VY2VPLU32N3P) to verify the certificate.<br>
-![python for data sci and dev](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/fc84b975-c679-4fd9-998a-e680a5c15d47)
-# Course 4 Digital Badge:
-Please [click here](https://www.credly.com/badges/ac55ea7f-bd5f-4535-a572-e0e08227cc11/public_url) to verify the IBM digital badge.<br>
-![python-for-data-science-and-ai](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/f89a0570-e805-4455-9d89-33eb4ad8a1bf)
+**Additional Info:** Please [click here]() to verify the certificate.<br>
