@@ -33,7 +33,7 @@
 - Objects and Classes
 - Reading: Objects and Classes
 - Hands-On Lab: Objects and Classes
-- **Practice Quiz**: 100
+- **Practice Quiz**: 100%
 ## Practice Lab
 - Cheatsheet: Python Programming Fundamentals
 - Practice Lab
