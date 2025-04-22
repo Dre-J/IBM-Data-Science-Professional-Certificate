@@ -6,11 +6,11 @@ Course 4 of 12 in the IBM Data Science Professional Certificate
 > You will practice and apply what you learn through hands-on labs using Jupyter Notebooks. By the end of this course, you’ll feel comfortable creating basic programs, working with data, and automating real-world tasks using Python.<br><br>
 > This course is suitable for anyone who wants to learn Data Science, Data Analytics, Software Development, Data Engineering, AI, and DevOps as well as a number of other job roles."
 ## Syllabus for Course 4
-- **Week 1:** [Python Basics](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%201:%20Python%20Basics)
-- **Week 2:** [Python Data Structures](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%202:%20Python%20Data%20Structures)
-- **Week 3:** [Python Programming Fundamentals](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%203:%20Python%20Programming%20Fundamentals)
-- **Week 4:** [Working with Data in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%204:%20Working%20with%20Data%20in%20Python)
-- **Week 5:** [APIs and Data Collection](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%205:%20APIs%20and%20Data%20Collection)
+- **Week 1:** [Python Basics](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%201%3A%20Python%20Basics)
+- **Week 2:** [Python Data Structures](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%202%3A%20Python%20Data%20Structures)
+- **Week 3:** [Python Programming Fundamentals](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%203%3A%20Python%20Programming%20Fundamentals)
+- **Week 4:** [Working with Data in Python](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%204%3A%20Working%20with%20Data%20in%20Python)
+- **Week 5:** [APIs and Data Collection](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%205%3A%20APIs%20and%20Data%20Collection)
 ## Summary of Tasks
 - Learn Python - the most popular programming language for Data Science and Software Development.
 - Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes.
