@@ -12,7 +12,7 @@
 - Lists and Tuples
 - Hands-On Lab: Lists
 - Hands-On Lab: Tuples
-- **Practice Quiz** (100%)
+- **Practice Quiz** (80%)
 ## Dictionaries
 - Dictionaries
 - Hands-On Lab: Dictionaries
