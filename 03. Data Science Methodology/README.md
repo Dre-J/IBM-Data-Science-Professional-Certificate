@@ -19,15 +19,6 @@ Course 3 of 12 in the IBM Data Science Professional Certificate
 - Python Programming
 - Numpy
 - Pandas
-## [Final Assignment](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%204%3A%20Final%20Project%20and%20Assessment/Business%20Problem%20-%20Data%20Methodology%20(1).pdf)
-- Graded Assignment: 100%
-## Final Exam
-- Graded Assignment: 90%
 # Course 3 Completion Certificate:
-**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/XAUCPC9EBKXY) to verify the certificate.<br>
-![data sci methods](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/e9e01dbd-0460-4d06-86dd-f95464465cd0)
-# Course 3 Credly Certificate:
-![Data Science Methodology](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/f7119ac3-d6dc-42eb-8038-618381d3cf2b)
-# Course 3 Digital Badge:
-Please [click here](https://www.credly.com/badges/2cc76063-54e1-4152-a45c-06515f172f2c/public_url) to verify the IBM digital badge.<br>
-![data-science-methodology](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/d7ffb053-ff8b-49c3-b2fa-bba6d7b7cb10)
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/MQIA7DKVLM6N) to verify the certificate.<br>
+
