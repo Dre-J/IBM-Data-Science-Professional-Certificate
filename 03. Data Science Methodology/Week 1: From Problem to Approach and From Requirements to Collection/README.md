@@ -23,6 +23,6 @@
 - Data Collection
 - Assignment: From Requirements to Collection
 - Lesson Summary
-- **Practice Quiz:** From Requirements to Collection (100%)
+- **Practice Quiz:** From Requirements to Collection (83.33%)
 - Glossary
-- **Graded Quiz:** From Requirements to Collection (100%)
+- **Graded Quiz:** From Requirements to Collection (60%)
