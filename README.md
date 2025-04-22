@@ -1,25 +1,24 @@
-![image](https://github.com/KailaniBailey/IBM-Data-Science-Projects/assets/158431578/7829af65-85b7-4f6a-8460-8e6d3c45a238)<br>
 # About the IBM Data Science Professional Certificate Course
 The [IBM Data Science Professional Certification](https://www.coursera.org/professional-certificates/ibm-data-science) consists of 12 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. Completion of the program awards professional with an employer-recognized certificate from IBM.<br>
 # Summary of This Repository
 This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.<br><br>
 **Additional Info:** *Please scroll down to view the employer-recognized Data Science Professional Certificate from IBM and verification link.*<br>
 # Completed Courses and Certificates
-- **Course 1:** [What is Data Science?](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/01.%20What%20is%20Data%20Science%3F)
-- **Course 2:** [Tools for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science)
-- **Course 3:** [Data Science Methodology](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology)
-- **Course 4:** [Python for Data Science, AI & Development](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
-- **Course 5:** [Python Project for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data%20Science)
-- **Course 6:** [Databases and SQL for Data Science with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-- **Course 7:** [Data Analysis with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python)
-- **Course 8:** [Data Visualization with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
-- **Course 9:** [Maching Learning with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python)
-- **Course 10:** [Applied Data Science Capstone](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
-- **Course 11:** [Generative AI: Elevate Your Data Science Career](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
-- **Course 12:** [Data Scientist Career Guide and Interview Preparation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
+- **Course 1:** [What is Data Science?](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/01.%20What%20is%20Data%20Science%3F)
+- **Course 2:** [Tools for Data Science](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science)
+- **Course 3:** [Data Science Methodology](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology)
+- **Course 4:** [Python for Data Science, AI & Development](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+- **Course 5:** [Python Project for Data Science](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data%20Science)
+- **Course 6:** [Databases and SQL for Data Science with Python](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+- **Course 7:** [Data Analysis with Python](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python)
+- **Course 8:** [Data Visualization with Python](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
+- **Course 9:** [Maching Learning with Python](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python)
+- **Course 10:** [Applied Data Science Capstone](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
+- **Course 11:** [Generative AI: Elevate Your Data Science Career](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career)
+- **Course 12:** [Data Scientist Career Guide and Interview Preparation](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/tree/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
 ## IBM Skills Network: My Completed Final Projects
 - ### Course 2: Tools for Data Science
-  - Final Assignment: [*Data Science Tools and Ecosystem*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
+  - Final Assignment: [*Data Science Tools and Ecosystem*](https://github.com/Dre-J/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Jaheim%20Jackson%20ToolsForDataScience%20Final%20Assessment.ipynb)
 - ### Course 3: Data Science Methodology
   - Final Assignment: [*Finding the Most Popular Email Providers During a 5-Day Work Week and Peer Reviews*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%204%3A%20Final%20Project%20and%20Assessment/Business%20Problem%20-%20Data%20Methodology%20(1).pdf)
 - ### Course 5: Python Project for Data Science
