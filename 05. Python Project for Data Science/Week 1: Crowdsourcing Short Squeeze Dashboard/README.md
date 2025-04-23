@@ -26,4 +26,4 @@
 - Optional: Hands-On Lab: Add Notebook to Watson Studio
 - Optional: Hands-On Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 - Optional: Hands-On Lab: Share Your Notebook from Watson Studio
-- **Peer-Graded Final Assignment: [Extracting and Visualizing Stock Data]()** (100%)
+- **Peer-Graded Final Assignment: [Extracting and Visualizing Stock Data]()** (91.66%)
