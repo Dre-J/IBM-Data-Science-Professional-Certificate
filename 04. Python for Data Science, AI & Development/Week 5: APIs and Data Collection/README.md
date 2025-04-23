@@ -29,4 +29,4 @@
 - **Practice Quiz**
 - **Graded Quiz: APIs and Data Collection** (100%)
 ## Final Exam
-- **Graded Assignment** (84%)
+- **Graded Assignment** (90%)
