@@ -22,5 +22,5 @@
 - Optional: Db2 Lab: Connecting to a Database Instance
 - Creating Tables, Loading Data and Querying Data
 - Optional: Db2 Lab: Creating Tables, Inserting and Querying Data
-- Optional: Db2 Lab: Turorial, Accessing Databases with SQL Magic
+- Optional: Db2 Lab: Tutorial, Accessing Databases with SQL Magic
 - Optional: Db2 Lab: Analyzing a Real-World Data Set
